@@ -27,3 +27,10 @@ Image featuers links:
 2015 Testing Image Features (80K / 17GB)
 
 
+arrange your files in the folders as follows:
+in annotations folder:
+v2_mscoco_train2014_annotations.json
+v2_mscoco_val2014_annotations.json
+
+
+
