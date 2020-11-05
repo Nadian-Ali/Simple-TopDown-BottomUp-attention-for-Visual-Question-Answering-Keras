@@ -6,7 +6,8 @@ VQA is complext task. Given an image and a question, vqa tries to find the answe
 ![The Task](https://github.com/Nadian-Ali/Simple-TopDown-BottomUp-attention-for-Visual-Question-Answering-Keras/blob/main/miscellaneous/example%20image.jpg)
 
 
-In [This]( https://github.com/Nadian-Ali/Visual-Question-Answering-implementation-in-keras-with-VQA2#visual-question-answering-implementation-in-keras-with-vqa2 ) post, a complete for CNN-LSTM vqa architecture was provided. In this reop, the attention mechanism explained in [top down bottom up attention for vaq [paper](https://arxiv.org/abs/1707.07998) is implemented. The code is provided using Keras library. 
+In [This]( https://github.com/Nadian-Ali/Visual-Question-Answering-implementation-in-keras-with-VQA2#visual-question-answering-implementation-in-keras-with-vqa2 ) post, a complete implementation of CNN-LSTM vqa architecture was provided. 
+In this reop, the attention mechanism explained in [top down bottom up attention for vaq [paper](https://arxiv.org/abs/1707.07998) is implemented. The code is provided using Keras library. 
 
 Download data using the links below:
 
@@ -35,7 +36,7 @@ Image featuers links:
 [2015 Testing Image Features (80K / 17GB)](https://imagecaption.blob.core.windows.net/imagecaption/test2015_36.zip)
 
 
-
+Also, download and the following code to *data* folder. 
 
 
 
