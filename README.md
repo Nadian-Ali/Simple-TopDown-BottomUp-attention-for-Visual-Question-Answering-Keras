@@ -15,25 +15,22 @@ Image data
 
 
 Text data:
-[Training annotations 2017 v2.0](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip)
 
+[Training annotations 2017 v2.0](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip)
 
 [Validation annotations 2017 v2.0](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Val_mscoco.zip)
 
 [Training questions 2017 v2.0](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Questions_Train_mscoco.zip)
 
-
 [Validation questions 2017 v2.0](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Questions_Val_mscoco.zip)
-
 
 [Testing questions 2017 v2.0](https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Questions_Test_mscoco.zip)
 
 Image featuers links:
+
 [2014 Train/Val Image Features (120K / 25GB)](https://imagecaption.blob.core.windows.net/imagecaption/trainval_36.zip)
 
-
 [2014 Testing Image Features (40K / 9GB)](https://imagecaption.blob.core.windows.net/imagecaption/test2014_36.zip)
-
 
 [2015 Testing Image Features (80K / 17GB)](https://imagecaption.blob.core.windows.net/imagecaption/test2015_36.zip)
 
