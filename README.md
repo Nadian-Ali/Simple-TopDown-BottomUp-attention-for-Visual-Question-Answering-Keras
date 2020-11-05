@@ -36,7 +36,5 @@ Image featuers links:
 [2015 Testing Image Features (80K / 17GB)](https://imagecaption.blob.core.windows.net/imagecaption/test2015_36.zip)
 
 
-Also, download and the following code to *data* folder. 
-
 
 
