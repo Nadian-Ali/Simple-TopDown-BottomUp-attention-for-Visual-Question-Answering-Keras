@@ -1,6 +1,6 @@
 # VisualQuestionAnswering-with-top-down-bottom-up-attention
 
-![The Task](https://github.com/Nadian-Ali/Simple-TopDown-BottomUp-attention-for-Visual-Question-Answering-Keras/blob/main/model.png?raw=true)
+![The Task](https://github.com/Nadian-Ali/Simple-TopDown-BottomUp-attention-for-Visual-Question-Answering-Keras/blob/main/miscellaneous/example%20image.jpg)
 
 This is an extension to the previous project https://github.com/Nadian-Ali/Visual-Question-Answering-implementation-in-keras-with-VQA2#visual-question-answering-implementation-in-keras-with-vqa2 
 Attention Mechanism is applied here. 
